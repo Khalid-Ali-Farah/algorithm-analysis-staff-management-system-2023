@@ -49,7 +49,11 @@ Upon running the program, you will be presented with a menu with the following o
 
 
 
-Customer Login: 
+Main menu: 
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/algorithm-analysis-staff-management-system-2023/blob/09ef0170f7875553ab21e721c88e1cec44b6fc81/algorithm-analysis-staff-management-system-2023/1.png)
+
+Main menu: 
 
 ![Interface Design]()
 
